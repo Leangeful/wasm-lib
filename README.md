@@ -1,1 +1,1 @@
-# wasm-lib for SvelteKit + Rust/WASM  Tutorial
+# wasm-lib for SvelteKit + Rust/WASM  [Tutorial](https://github.com/Leangeful/SvelteKit-Rust-Wasm-Tutorial)
